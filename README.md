@@ -1,2 +1,2 @@
-# BookMark-J2EE
-Java Web写的网页书签
+# BookMark-JSP
+JSP+Servlet+JDBC+JSTL写的网页书签
